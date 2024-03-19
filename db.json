@@ -1,0 +1,17 @@
+{
+    "users":[
+        {
+            "id":1,
+            "nome":"Rafael Perez",
+            "email":"rafaelperezsilva2005@gmail.com",
+            "score":1500
+        },
+        {
+            "id":2,
+            "nome":"Yan Andrade",
+            "email":"yan@gmail.com",
+            "score":500
+        }
+
+    ]
+}
